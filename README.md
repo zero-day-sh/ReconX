@@ -129,10 +129,3 @@ The developer is not responsible for misuse.
 * API-based scanning
 
 ---
-
-إلى بغيتي نزيده ليك أكثر احترافية:
-🔥 GitHub badges (stars, forks, version)
-🔥 logo + banner فـ README
-🔥 أو نخليه بحال Metasploit style project structure
-
-قول 👍
