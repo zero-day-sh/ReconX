@@ -43,7 +43,7 @@ python-whois
 ### 📌 Linux / Kali / Ubuntu
 
 ```bash
-git clone https://github.com/yourname/reconx.git
+git clone https://github.com/zero-day-sh/reconx.git
 cd reconx
 pip install -r requirements.txt
 ```
@@ -117,15 +117,5 @@ The developer is not responsible for misuse.
 
 * Created by: **nabil_jakoubi**
 * Instagram: @nabil_jakoubi
-
----
-
-## ⭐ Future Updates
-
-* JSON export support
-* HTML report generator
-* Proxy rotation
-* Better UI dashboard
-* API-based scanning
 
 ---
